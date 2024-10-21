@@ -1,6 +1,5 @@
-# Storage Browser example app
-
-## Deploy on Amplify:
-Follow the steps below:
-https://docs.amplify.aws/react/start/quickstart/#2-deploy-the-starter-app
-
+"dependencies": {
+    "@aws-amplify/ui-react-storage": "storage-browser",
+    "@aws-amplify/storage": "storage-browser",
+    "aws-amplify": "storage-browser",
+  
